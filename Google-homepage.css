@@ -1,0 +1,48 @@
+a:link {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a{
+	color: #757575;
+	float: right;
+	margin: 10px 10px 10px 10px;
+}
+.Logo{
+	margin: 100px 50px -40px 350px;
+	width: 40%;
+	height: 40%;
+}
+
+.center{
+}
+.searchbar{
+	margin: -20px 50px 0px 280px;
+	width: 50%;
+	height: 50px;
+	box-shadow: 5px 1px   #aaaaaa;;
+}
+.button{
+	margin-top: 10px;
+	margin-left: 450px;
+}
+button{
+	height: 40px;
+	width: 20%;
+}
+body{
+	font-family: Helvetica;
+}
+
+
+#img{
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+	border-top-left-radius: 50%;
+	position: relative;
+	width: 5%;
+	height: 10%;
+	float: right;
+}
